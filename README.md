@@ -1,6 +1,7 @@
 # Sketch2Fashion
 
 This is the post-training utility repository for Sketch2Fashion final year project.  
+Originally https://github.com/joju-j/streamlitapp ,changed repo due to errors with Streamlit.
 Preset: resnet_9blocks
 
 ## Steps to run pre-trained model:
