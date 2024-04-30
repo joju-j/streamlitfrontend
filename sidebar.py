@@ -39,13 +39,12 @@ def sidebar():
         st.markdown(
                     """
                     ## :spiral_note_pad: About\n
-                    This Application was created as part of our _Final Year Project_ for Federal Institute Of
-                    Science And Technology.\n
+                    This Application was created as part of our Final Year Project for Mes College Of engineering And Technology.\n
                     ### :bow_and_arrow: :blue[Team Members]:
-                    :female-student: Anupama RH\n
-                    :female-student: Ayisha EA\n
-                    :male-student: Emmanuel Jojy\n
-                    :male-student: Joju Jose\n
+                    :female-student:  A Anoya\n
+                    :female-student: Muhazeena M N\n
+                    :male-student: Akshay Suresh\n
+                    :male-student: Dhanush Gopan\n
                     """
                     )
         st.markdown("---")
